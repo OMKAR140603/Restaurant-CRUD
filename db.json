@@ -1,0 +1,244 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "name": "omkar",
+      "email": "@test.com",
+      "password": "89233289",
+      "id": 2
+    },
+    {
+      "name": "omkar",
+      "email": "ok@test.com",
+      "password": "982894489",
+      "id": 3
+    },
+    {
+      "name": "pankaj",
+      "email": "pk@test.com",
+      "password": "12342",
+      "id": 4
+    },
+    {
+      "name": "omi",
+      "email": "oktest",
+      "password": "9999",
+      "id": 5
+    },
+    {
+      "name": "d",
+      "email": "x",
+      "password": "`",
+      "id": 6
+    },
+    {
+      "name": "u1",
+      "email": "1",
+      "password": "6",
+      "id": 7
+    },
+    {
+      "name": "omi",
+      "email": "@next.com",
+      "password": "785",
+      "id": 8
+    },
+    {
+      "name": "ff",
+      "email": "s",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "omkar",
+      "email": "tilkear",
+      "password": "12345",
+      "id": 10
+    },
+    {
+      "name": "shree",
+      "email": "mitesh",
+      "password": "abhi",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "name": "xyz"
+    },
+    {
+      "name": "kjk",
+      "email": "kkl.l",
+      "password": "8978",
+      "id": 13
+    },
+    {
+      "name": "omkartilekar",
+      "email": "tilekaromkar14@gmail.com",
+      "password": "1234567890",
+      "id": 14
+    },
+    {
+      "name": "omkar",
+      "email": "omkar@test.com",
+      "password": "omkar123",
+      "id": 15
+    },
+    {
+      "name": "omkar",
+      "email": "ok@test.com",
+      "password": "ok123",
+      "id": 16
+    },
+    {
+      "name": "123",
+      "email": "222",
+      "password": "3333",
+      "id": 17
+    },
+    {
+      "name": "omkar",
+      "email": "ok@test.com",
+      "password": "oktest123",
+      "id": 18
+    },
+    {
+      "name": "omkar",
+      "email": "ok12@test.com",
+      "password": "oktest123",
+      "id": 19
+    },
+    {
+      "name": "omkar",
+      "email": "ok12@test.com",
+      "password": "oktest123",
+      "id": 20
+    },
+    {
+      "name": "omkar",
+      "email": "ok12@test.com",
+      "password": "oktest123",
+      "id": 21
+    },
+    {
+      "name": "pankaj",
+      "email": "pktest.com",
+      "password": "pk1233",
+      "id": 22
+    },
+    {
+      "name": "pktest",
+      "email": "pktest123",
+      "password": "92032",
+      "id": 23
+    },
+    {
+      "name": "kskask",
+      "email": "skkakl",
+      "password": "askka",
+      "id": 24
+    },
+    {
+      "name": "raj",
+      "email": "raj@test.com",
+      "password": "raj123",
+      "id": 25
+    },
+    {
+      "name": "raj123",
+      "email": "raj@123",
+      "password": "123",
+      "id": 26
+    },
+    {
+      "name": "shreekar",
+      "email": "mitesh",
+      "password": "abhi",
+      "id": 27
+    },
+    {
+      "name": "ortest",
+      "email": "ortest@",
+      "password": "789",
+      "id": 28
+    },
+    {
+      "name": "omkar",
+      "email": "tilekaromkar12@gmail.com",
+      "password": "9379",
+      "id": 29
+    },
+    {
+      "name": "omkar",
+      "email": "tilekaromkar14@gmail.com",
+      "password": "9370",
+      "id": 30
+    },
+    {
+      "name": "rajkumar",
+      "email": "raj@pawar",
+      "password": "1234",
+      "id": 31
+    },
+    {
+      "name": "omkar",
+      "email": "tilekaromkar2@gmail.com",
+      "password": "test1234",
+      "id": 32
+    },
+    {
+      "name": "omkar",
+      "email": "tilekaromkar2@gmail.com",
+      "password": "test1234",
+      "id": 33
+    },
+    {
+      "name": "Omkar",
+      "email": "tilekaromkar12@gmail.com",
+      "password": "test89",
+      "id": 34
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "sambar",
+      "contact": 12345667,
+      "address": "mumbai",
+      "id": 8
+    },
+    {
+      "name": "wada",
+      "contact": 2222,
+      "address": "pune",
+      "id": 9
+    },
+    {
+      "name": "pattice",
+      "contact": 89,
+      "address": "pune",
+      "id": 10
+    },
+    {
+      "name": "paneer",
+      "contact": 9290,
+      "address": "chinchwad",
+      "id": 12
+    },
+    {
+      "name": "dosa",
+      "contact": 0,
+      "address": "parvati",
+      "id": 13
+    },
+    {
+      "name": "kattakirr",
+      "contact": 100,
+      "address": "cummins college",
+      "id": 14
+    }
+  ]
+}
